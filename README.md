@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tonijazz
-- 👀 I’m interested in Web 3.0 & MAchine Learning
+- 👀 I’m interested in Web 3.0 & Machine Learning
 - 🌱 I’m currently learning Web 3.0
 - 📫 How to reach me @wynstone96 on Twitter
 
